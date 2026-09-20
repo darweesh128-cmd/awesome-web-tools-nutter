@@ -187,6 +187,7 @@ A curated collection of free online tools for developers, SEO experts, writers, 
 
 | Tool | Description |
 |------|-------------|
+| [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) | Free MIT browser freelance invoice/quote/credit-note/certificate generators; no signup |
 | [PDF Merger](https://nutter-tools.com/tools/pdf-merger) | Combine multiple PDF files into a single document |
 | [PDF to Image](https://nutter-tools.com/tools/pdf-to-image) | Convert PDF pages into high-quality JPG or PNG images |
 | [What's My IP](https://nutter-tools.com/tools/whats-my-ip) | Find your public IP address and geographic location |
