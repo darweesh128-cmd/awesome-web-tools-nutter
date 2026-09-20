@@ -12,6 +12,7 @@ A curated collection of free online tools for developers, SEO experts, writers, 
 - [AI Tools](#ai-tools)
 - [Calculators](#calculators)
 - [Productivity Tools](#productivity-tools)
+- [Client & Freelancer Tools](#client--freelancer-tools)
 - [Health Tools](#health-tools)
 - [Rider / Driver Tools](#rider--driver-tools)
 - [Immigration Tools](#immigration-tools)
@@ -204,6 +205,12 @@ A curated collection of free online tools for developers, SEO experts, writers, 
 | [Activity Burn Estimator](https://nutter-tools.com/tools/activity-burn) | Estimate calories burned during various physical activities |
 
 ---
+
+## Client &amp; Freelancer Tools
+
+| Tool | Description |
+|------|-------------|
+| [Client Close Kit](%s) | Free browser-only invoice, quote, and purchase order tools for freelancers; MIT licensed, no signup |
 
 ## Health Tools
 
