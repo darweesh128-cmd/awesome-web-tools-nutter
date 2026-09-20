@@ -206,11 +206,11 @@ A curated collection of free online tools for developers, SEO experts, writers, 
 
 ---
 
-## Client &amp; Freelancer Tools
+## Client & Freelancer Tools
 
 | Tool | Description |
 |------|-------------|
-| [Client Close Kit](%s) | Free browser-only invoice, quote, and purchase order tools for freelancers; MIT licensed, no signup |
+| [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) | Free browser-only invoice, quote, and purchase order tools for freelancers; MIT licensed, no signup |
 
 ## Health Tools
 
