@@ -185,6 +185,7 @@ A curated collection of free online tools for developers, SEO experts, writers, 
 
 ## Productivity Tools
 
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free browser-only freelance tools: invoice, quote, delivery note, work order, receipt, SOW, and more (MIT, no signup).
 | Tool | Description |
 |------|-------------|
 | [PDF Merger](https://nutter-tools.com/tools/pdf-merger) | Combine multiple PDF files into a single document |
